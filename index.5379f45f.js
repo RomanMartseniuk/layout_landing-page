@@ -1,0 +1,2 @@
+var e=document.getElementById("menu-button"),t=document.getElementById("menu");console.log(document.querySelector("header"));var l=document.getElementById("call-link");e.onclick=function(){l.classList.toggle("invisible"),e.classList.toggle("active"),t.classList.toggle("active"),document.querySelector("header").classList.toggle("header--bg-white"),document.body.classList.toggle("unscrollable")};
+//# sourceMappingURL=index.5379f45f.js.map
